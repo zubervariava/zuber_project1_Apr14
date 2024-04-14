@@ -17,3 +17,7 @@ project
     git checkout -b feature_zuber
     git commit "updating feature_zuber branch"
     git push git@github.com:zubervariava/zuber_project1_Apr14.git
+Updating file
+    git status
+    git add .
+    
