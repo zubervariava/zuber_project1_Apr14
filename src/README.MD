@@ -24,3 +24,5 @@ Updating file
     git commit -m "updating file"
     git push 
     git push git@github.com:zubervariava/zuber_project1_Apr14.git or git push master
+    adding one line
+    adding two line
