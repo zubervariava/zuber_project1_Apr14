@@ -3,7 +3,7 @@ project
     mkdir src
         touch README.MD
     cd project1-Apr14\
-    cd src
+    cd src\
     git init
     git remote add origin git@github.com:zubervariava/zuber_project1_Apr14.git
     git remote -v
@@ -17,6 +17,10 @@ project
     git checkout -b feature_zuber
     git commit "updating feature_zuber branch"
     git push git@github.com:zubervariava/zuber_project1_Apr14.git or git push feature_zuber
+    git checkout master
 Updating file
     git status
     git add .
+    git commit -m "updating file"
+    git push 
+    git push git@github.com:zubervariava/zuber_project1_Apr14.git or git push master
