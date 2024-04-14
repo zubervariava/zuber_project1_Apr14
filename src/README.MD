@@ -25,4 +25,8 @@ Updating file
     git push 
     git push git@github.com:zubervariava/zuber_project1_Apr14.git or git push master
     adding one line
+<<<<<<< HEAD
     adding two line
+=======
+    
+>>>>>>> 40c596b29231b043e8a981c1881dc5e9713bf556
